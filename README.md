@@ -4,9 +4,9 @@ A professional, elegant website template for marketing landscape services. Built
 
 ## 🌐 Live Website
 
-**👉 [View Live Site](https://anastasiaeclipselawn.vercel.app)** *(Replace with your actual Vercel URL after deployment)*
+**👉 [View Live Site](https://anastasiaeclipselawn.vercel.app)**
 
-The website is deployed and live on Vercel. Click the link above to view it!
+The website is deployed and live on Vercel! 🎉
 
 ## 🚀 Quick Start
 
