@@ -2,6 +2,12 @@
 
 A professional, elegant website template for marketing landscape services. Built with Next.js 16, React 19, and Tailwind CSS.
 
+## 🌐 Live Website
+
+**👉 [View Live Site](https://anastasiaeclipselawn.vercel.app)** *(Replace with your actual Vercel URL after deployment)*
+
+The website is deployed and live on Vercel. Click the link above to view it!
+
 ## 🚀 Quick Start
 
 ### Prerequisites
